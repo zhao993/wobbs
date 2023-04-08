@@ -6,7 +6,7 @@ type LoginDTO struct {
 }
 
 type RegisterDTO struct {
-	Username string `json:"username" binding:"required,min=3"`
+	Username string `json:"username" binding:"required,min=1"`
 	Age      int    `json:"age" binding:"isdefault=18,min=0,max=100"`
 	//Email      string `json:"email" binding:"required,email"`
 	Email      string `json:"email"`

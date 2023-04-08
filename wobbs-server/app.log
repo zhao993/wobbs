@@ -6,3 +6,92 @@
 2023-04-08 14:01:40.082	INFO	config/mysql.go:113	database init success
 2023-04-08 14:01:40.084	INFO	config/redis.go:30	redis init success
 2023-04-08 14:01:40.089	INFO	router/routers.go:42	init router success
+2023-04-08 14:17:21.011	INFO	config/logger.go:34	logger init success
+2023-04-08 14:17:21.043	INFO	snowflake/snowflake.go:26	snowflake node init success
+2023-04-08 14:17:21.922	INFO	config/mysql.go:113	database init success
+2023-04-08 14:17:21.963	INFO	config/redis.go:30	redis init success
+2023-04-08 14:17:21.967	INFO	router/routers.go:42	init router success
+2023-04-08 14:17:51.775	INFO	config/zap.go:86	/	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0254698}
+2023-04-08 14:17:52.161	INFO	config/zap.go:86	/static/js/app.d2d5a581.js	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.2654596}
+2023-04-08 14:17:52.161	INFO	config/zap.go:86	/static/css/app.523e7581.css	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.2760363}
+2023-04-08 14:17:52.162	INFO	config/zap.go:86	/static/js/chunk-vendors.57f9e9d6.js	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.2655133}
+2023-04-08 14:17:52.221	INFO	config/zap.go:86	/static/img/search.8e85063d.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0134939}
+2023-04-08 14:17:52.245	INFO	config/zap.go:86	/static/img/logo.da56125f.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0379377}
+2023-04-08 14:17:52.257	INFO	config/zap.go:86	/static/img/avatar.7b0a9835.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0331105}
+2023-04-08 14:17:52.286	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0778568}
+2023-04-08 14:17:52.313	INFO	config/zap.go:86	/static/favicon.ico	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0092492}
+2023-04-08 14:17:53.598	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.0655233}
+2023-04-08 14:17:54.166	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0010035}
+2023-04-08 14:24:26.836	INFO	config/logger.go:34	logger init success
+2023-04-08 14:24:26.870	INFO	snowflake/snowflake.go:26	snowflake node init success
+2023-04-08 14:24:27.227	INFO	config/mysql.go:113	database init success
+2023-04-08 14:24:27.266	INFO	config/redis.go:30	redis init success
+2023-04-08 14:24:27.269	INFO	router/routers.go:42	init router success
+2023-04-08 14:24:27.522	INFO	config/zap.go:86	/	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0003786}
+2023-04-08 14:24:27.681	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0023205}
+2023-04-08 14:24:28.989	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.0015809}
+2023-04-08 14:24:29.623	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0006372}
+2023-04-08 14:24:30.374	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.002057}
+2023-04-08 14:24:31.163	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.0012104}
+2023-04-08 14:24:31.494	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.001447}
+2023-04-08 14:24:38.565	INFO	config/zap.go:86	/static/js/app.d2d5a581.js.map	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.2921762}
+2023-04-08 14:24:38.567	INFO	config/zap.go:86	/static/js/chunk-vendors.57f9e9d6.js.map	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.295382}
+2023-04-08 14:24:39.900	INFO	config/zap.go:86	/login	{"status": 404, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0}
+2023-04-08 14:24:40.000	INFO	config/zap.go:86	/favicon.ico	{"status": 404, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0}
+2023-04-08 14:25:08.936	INFO	config/zap.go:86	/	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0001496}
+2023-04-08 14:25:09.019	INFO	config/zap.go:86	/static/css/app.523e7581.css	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0008827}
+2023-04-08 14:25:09.019	INFO	config/zap.go:86	/static/js/app.d2d5a581.js	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0006571}
+2023-04-08 14:25:09.020	INFO	config/zap.go:86	/static/js/chunk-vendors.57f9e9d6.js	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0010887}
+2023-04-08 14:25:09.199	INFO	config/zap.go:86	/static/js/chunk-vendors.57f9e9d6.js.map	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0022276}
+2023-04-08 14:25:09.249	INFO	config/zap.go:86	/static/img/logo.da56125f.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.001555}
+2023-04-08 14:25:09.249	INFO	config/zap.go:86	/static/img/search.8e85063d.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0002029}
+2023-04-08 14:25:09.251	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0019394}
+2023-04-08 14:25:09.270	INFO	config/zap.go:86	/static/img/avatar.7b0a9835.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0}
+2023-04-08 14:25:09.282	INFO	config/zap.go:86	/static/js/app.d2d5a581.js.map	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0010005}
+2023-04-08 14:25:09.347	INFO	config/zap.go:86	/static/favicon.ico	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0011921}
+2023-04-08 14:25:18.940	INFO	config/zap.go:86	/login	{"status": 404, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0}
+2023-04-08 14:25:28.640	INFO	config/zap.go:86	/	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0001548}
+2023-04-08 14:25:28.699	INFO	config/zap.go:86	/static/css/app.523e7581.css	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0010312}
+2023-04-08 14:25:28.704	INFO	config/zap.go:86	/static/js/app.d2d5a581.js	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0007896}
+2023-04-08 14:25:28.706	INFO	config/zap.go:86	/static/js/chunk-vendors.57f9e9d6.js	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0022223}
+2023-04-08 14:25:28.807	INFO	config/zap.go:86	/static/js/app.d2d5a581.js.map	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0005598}
+2023-04-08 14:25:28.808	INFO	config/zap.go:86	/static/js/chunk-vendors.57f9e9d6.js.map	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0014238}
+2023-04-08 14:25:28.833	INFO	config/zap.go:86	/static/img/logo.da56125f.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0009542}
+2023-04-08 14:25:28.834	INFO	config/zap.go:86	/static/img/search.8e85063d.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0}
+2023-04-08 14:25:28.835	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0029516}
+2023-04-08 14:25:28.836	INFO	config/zap.go:86	/static/img/avatar.7b0a9835.png	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0}
+2023-04-08 14:25:28.897	INFO	config/zap.go:86	/static/favicon.ico	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0009142}
+2023-04-08 14:25:50.425	ERROR	config/zap.go:165	[Recovery from panic]	{"error": {"code":1002,"msg":"用户名或密码错误"}, "path": "/api/user/login", "method": "POST", "ip": "127.0.0.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42"}
+2023-04-08 14:25:52.486	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.000919}
+2023-04-08 14:26:06.458	INFO	config/zap.go:86	/api/user/register	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.1364221}
+2023-04-08 14:26:13.296	INFO	config/zap.go:86	/api/user/login	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.1259322}
+2023-04-08 14:26:13.324	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0009026}
+2023-04-08 14:26:14.884	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.0022213}
+2023-04-08 14:26:15.933	INFO	config/zap.go:86	/api/community/category	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0019712}
+2023-04-08 14:27:05.389	INFO	logic/post.go:127	redis记录发帖时间 1680935225
+2023-04-08 14:27:05.389	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.1392415}
+2023-04-08 14:27:05.432	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0145918}
+2023-04-08 14:27:07.252	INFO	config/zap.go:86	/api/post/vote	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.0018957}
+2023-04-08 14:27:07.261	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0023202}
+2023-04-08 14:27:08.898	INFO	config/zap.go:86	/api/post/vote	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.0006508}
+2023-04-08 14:27:08.907	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0023013}
+2023-04-08 14:27:09.468	INFO	config/zap.go:86	/api/post/vote	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.0005971}
+2023-04-08 14:27:09.477	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0028253}
+2023-04-08 14:27:10.814	INFO	config/zap.go:86	/api/community/category	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0008099}
+2023-04-08 14:28:01.162	INFO	logic/post.go:127	redis记录发帖时间 1680935281
+2023-04-08 14:28:01.162	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.1434031}
+2023-04-08 14:28:01.292	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.1000592}
+2023-04-08 14:28:02.812	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.0153813}
+2023-04-08 14:28:03.782	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0030659}
+2023-04-08 14:28:04.605	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.0015083}
+2023-04-08 14:28:07.048	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0037556}
+2023-04-08 14:28:08.622	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=score", "ip": "127.0.0.1", "latency": 0.0022279}
+2023-04-08 14:28:10.431	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0044565}
+2023-04-08 14:28:12.122	INFO	config/zap.go:86	/api/community/category	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0009822}
+2023-04-08 14:28:50.335	INFO	logic/post.go:127	redis记录发帖时间 1680935330
+2023-04-08 14:28:50.336	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.0846995}
+2023-04-08 14:28:50.372	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0048106}
+2023-04-08 14:28:52.982	INFO	config/zap.go:86	/api/community/category	{"status": 200, "method": "GET", "query": "", "ip": "127.0.0.1", "latency": 0.0007147}
+2023-04-08 14:29:33.809	INFO	logic/post.go:127	redis记录发帖时间 1680935373
+2023-04-08 14:29:33.809	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "POST", "query": "", "ip": "127.0.0.1", "latency": 0.1264257}
+2023-04-08 14:29:33.843	INFO	config/zap.go:86	/api/post	{"status": 200, "method": "GET", "query": "page=1&order=create_time", "ip": "127.0.0.1", "latency": 0.0043366}
